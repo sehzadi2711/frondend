@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "RInkal Jain",
+      "email": "rin@gmail.com",
+      "address": "vastral"
+    },
+    {
+      "id": 2,
+      "name": "Bhavin Jain",
+      "email": "bvn@gmail.com",
+      "address": "vastral"
+    }
+  ],
+  "students": [
+    {
+      "name": "Rinkal Jain",
+      "email": "rinkal@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Yash Jain",
+      "email": "yash@test.com",
+      "password": "yash@123",
+      "id": 2
+    },
+    {
+      "name": "Bhavin Jain",
+      "email": "bvn@gmail.com",
+      "password": "bvn@123",
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Mango",
+      "address": "S.G Highway",
+      "contact": "123456",
+      "id": 1
+    },
+    {
+      "name": "Orao",
+      "address": "S.G Highway",
+      "contact": "76677777",
+      "id": 2
+    },
+    {
+      "name": "Bagh-One",
+      "address": "S.G Highway",
+      "contact": "4455555",
+      "id": 3
+    },
+    {
+      "name": "Page-One",
+      "address": "vastrapur",
+      "contact": "555555",
+      "id": 4
+    }
+  ]
+}
